@@ -33,6 +33,11 @@ export const About = (props) => {
                       : "loading"}
                   </ul>
                 </div>
+                <a
+                  href="#features"
+                  className="btn btn-custom2 btn-lg page-scroll"
+                >READ MORE
+                </a>{" "}
               </div>
             </div>
           </div>
